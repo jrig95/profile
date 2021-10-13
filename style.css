@@ -99,4 +99,7 @@ li{
   .container {
     width: 300px;
   }
+  .btn-blue{
+    padding: 15px;
+  }
 }
